@@ -1,0 +1,29 @@
+textarea {
+    min-height: 400px;
+}
+
+.mail-div{
+    border: solid lightblue;
+    padding: 10px;
+    margin: auto:
+}
+.mail-div:hover{
+    border: solid gray;
+    background-color: lightblue;
+    padding: 10px;
+}
+body{
+    background-color: lightyellow
+}
+
+#emails-view{
+    border: solid lightblue;
+    padding: 10px;
+    display: flex;
+    
+}
+.btns{
+    display: flex;
+    justify-content: space-between;
+    
+}
